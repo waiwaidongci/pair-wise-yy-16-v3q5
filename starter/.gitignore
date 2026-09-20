@@ -1,0 +1,8 @@
+node_modules/
+dist/
+server/data/
+public/photos/
+public/fonts/
+src/data/photos.json
+*.log
+.DS_Store
